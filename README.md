@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner do perfil"/>
+</p>
 # 👋 Olá, eu sou o Lucas
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado na área de tecnologia.  
