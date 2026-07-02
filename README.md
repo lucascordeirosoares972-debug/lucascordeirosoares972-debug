@@ -15,44 +15,39 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por tecnologia e desenvolvimento de software.
 
-Atualmente estou construindo uma base sólida em programação por meio de projetos práticos e estudos contínuos, buscando evoluir constantemente tanto no aspecto técnico quanto profissional.
+Atualmente estou construindo uma base sólida em programação por meio de projetos práticos e estudos contínuos, buscando evolução constante tanto no aspecto técnico quanto profissional.
 
-Meu principal objetivo é conquistar minha primeira oportunidade de estágio em Tecnologia da Informação e continuar desenvolvendo minhas habilidades.
+Meu principal objetivo é conquistar minha primeira oportunidade de estágio em Tecnologia da Informação e continuar evoluindo minhas habilidades.
 
 ---
 
-## 🚀 Atualmente estudando
+## 🚀 Tecnologias em estudo
 
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Git
-- GitHub
+- HTML5  
+- CSS3  
+- JavaScript  
+- Python  
+- Git & GitHub  
 
 ---
 
 ## 🎯 Objetivos para 2026
 
-- Aprimorar minhas habilidades em Front-end
-- Desenvolver projetos para compor meu portfólio
+- Evoluir em Front-end (HTML, CSS, JS e React)
+- Criar projetos para portfólio
 - Aprender React
 - Explorar Back-end e Cloud
-- Conquistar minha primeira oportunidade de estágio
+- Conseguir meu primeiro estágio em TI
 
 ---
 
-## 📂 Repositórios
+## 📂 Projetos
 
-📚 **frontend-learning** → Estudos e projetos de Front-end
-
-🎓 **ads-college** → Trabalhos e atividades da graduação
-
-💡 **projects** → Projetos pessoais desenvolvidos durante meus estudos
+- 📚 **frontend-learning** → Estudos e projetos de Front-end  
+- 🎓 **ads-college** → Atividades da graduação  
+- 💡 **projects** → Projetos pessoais  
 
 ---
-
-<p align="center">
 
 ## 📊 GitHub Stats
 
@@ -61,7 +56,9 @@ Meu principal objetivo é conquistar minha primeira oportunidade de estágio em 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascordeirosoares972-debug&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-</p>
+---
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
