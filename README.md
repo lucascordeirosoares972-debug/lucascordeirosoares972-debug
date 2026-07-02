@@ -52,8 +52,8 @@ Meu principal objetivo é conquistar minha primeira oportunidade de estágio em 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascordeirosoares972&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascordeirosoares972&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascordeirosoares&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascordeirosoares&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -62,8 +62,8 @@ Meu principal objetivo é conquistar minha primeira oportunidade de estágio em 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascordeirosoares972/lucascordeirosoares972/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascordeirosoares972/lucascordeirosoares972/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lucascordeirosoares972/lucascordeirosoares972/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lucascordeirosoares/lucascordeirosoares/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
