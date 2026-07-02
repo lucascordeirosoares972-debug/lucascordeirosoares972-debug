@@ -1,45 +1,64 @@
 <p align="center">
   <img src="banner.png" alt="Banner do perfil"/>
 </p>
-# 👋 Olá, eu sou o Lucas
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado na área de tecnologia.  
-Atualmente estou focado em construir uma base sólida em desenvolvimento web e boas práticas de programação.
+<h1 align="center">Lucas Soares</h1>
 
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade de estágio na área de Tecnologia da Informação, onde eu possa aprender na prática, evoluir minhas habilidades e contribuir com o time.
+<p align="center">
+  <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  💻 "Learning today, building tomorrow."
+</p>
 
 ---
 
-## 📚 Em aprendizado atualmente
+## 👨‍💻 Sobre mim
 
-- HTML e CSS (fundamentos e estruturação de páginas)
-- JavaScript (lógica e interatividade)
-- Python (lógica de programação e introdução ao back-end)
-- Git e GitHub (controle de versão)
-- Conceitos básicos de front-end
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) apaixonado por tecnologia e desenvolvimento de software.
 
----
+Atualmente estou construindo uma base sólida em programação por meio de projetos práticos e estudos contínuos, buscando evoluir constantemente tanto no aspecto técnico quanto profissional.
 
-## 🚀 Em desenvolvimento
-
-Estou praticando pequenos projetos para fixar o aprendizado e melhorar minha lógica de programação e organização de código.
+Meu principal objetivo é conquistar minha primeira oportunidade de estágio em Tecnologia da Informação e continuar desenvolvendo minhas habilidades.
 
 ---
 
-## 💡 Sobre mim
+## 🚀 Atualmente estudando
 
-Gosto de aprender coisas novas, sou dedicado e busco evoluir constantemente, tanto na área acadêmica quanto prática.
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Git
+- GitHub
 
 ---
 
-## 📌 Status
+## 🎯 Objetivos para 2026
 
-📖 Estudando e construindo minha base em desenvolvimento web  
-🎯 Foco atual: aprendizado + prática consistente
+- Aprimorar minhas habilidades em Front-end
+- Desenvolver projetos para compor meu portfólio
+- Aprender React
+- Explorar Back-end e Cloud
+- Conquistar minha primeira oportunidade de estágio
+
+---
+
+## 📂 Repositórios
+
+📚 **frontend-learning** → Estudos e projetos de Front-end
+
+🎓 **ads-college** → Trabalhos e atividades da graduação
+
+💡 **projects** → Projetos pessoais desenvolvidos durante meus estudos
+
+---
+
+<p align="center">
+
+### 📊 GitHub Stats
+
+(Depois colocaremos aqui)
+
+</p>
 
 <p align="center">
   <picture>
