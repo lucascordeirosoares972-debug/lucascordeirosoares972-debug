@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner do perfil"/>
 </p>
- 👋 Olá, eu sou o Lucas
+# 👋 Olá, eu sou o Lucas
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em constante aprendizado na área de tecnologia.  
 Atualmente estou focado em construir uma base sólida em desenvolvimento web e boas práticas de programação.
@@ -40,3 +40,11 @@ Gosto de aprender coisas novas, sou dedicado e busco evoluir constantemente, tan
 
 📖 Estudando e construindo minha base em desenvolvimento web  
 🎯 Foco atual: aprendizado + prática consistente
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascordeirosoares972-debug/lucascordeirosoares972-debug/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascordeirosoares972-debug/lucascordeirosoares972-debug/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lucascordeirosoares972-debug/lucascordeirosoares972-debug/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
