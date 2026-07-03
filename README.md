@@ -43,9 +43,9 @@ Meu principal objetivo é conquistar minha primeira oportunidade de estágio em 
 
 ## 📂 Projetos
 
-- 📚 **frontend-learning** → Estudos e projetos de Front-end  
-- 🎓 **ads-college** → Atividades da graduação  
 - 💡 **projects** → Projetos pessoais  
+- 🎓 **ads-college** → Atividades da graduação  
+- 📚 **frontend-learning** → Estudos e projetos de Front-end
 
 ---
 
