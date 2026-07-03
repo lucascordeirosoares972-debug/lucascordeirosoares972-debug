@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner do perfil"/>
+  <img src="banner-.png" alt="Banner do perfil"/>
 </p>
 
 <h1 align="center">Lucas Soares</h1>
